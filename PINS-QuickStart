@@ -1,0 +1,15 @@
+1: intro doc
+https://github.com/sonic-net/SONiC/tree/master/doc/pins
+
+2: vedio 
+https://opennetworking.org/pins/#:~:text=P4%20Integrated%20Network%20Stack%20(PINS,control%20protocols%20(like%20BGP).
+
+3:gnmi/gnoi doc && code
+https://github.com/openconfig/reference/tree/master/rpc
+https://github.com/openconfig
+
+4: redis good view
+https://zhuanlan.zhihu.com/p/344165265
+https://gitee.com/qishibo/AnotherRedisDesktopManager/releases  test ok
+
+
