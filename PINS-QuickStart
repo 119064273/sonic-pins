@@ -1,7 +1,7 @@
 1: intro doc
 https://github.com/sonic-net/SONiC/tree/master/doc/pins
 
-2: vedio 
+2: video 
 https://opennetworking.org/pins/#:~:text=P4%20Integrated%20Network%20Stack%20(PINS,control%20protocols%20(like%20BGP).
 
 3:gnmi/gnoi doc && code
@@ -15,3 +15,6 @@ https://gitee.com/qishibo/AnotherRedisDesktopManager/releases  test ok
 
 4: p4 runtime intro
 https://p4.org/p4-spec/p4runtime/main/P4Runtime-Spec.html#sec-introduction-and-scope
+
+5: p4 runtime video
+https://www.youtube.com/watch?v=YGdcZ6PYiUo
