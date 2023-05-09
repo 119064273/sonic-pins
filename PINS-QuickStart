@@ -25,3 +25,7 @@ https://opennetworking.org/wp-content/uploads/2021/05/2021-P4-WS-Chris-Sommers-A
 
 7: GO test introduce
 https://pkg.go.dev/testing@go1.20.2#T.Skip
+
+
+8： sonic-buildimage repo
+https://github.com/sonic-net/sonic-buildimage/commit/d12c3b79bc1b4e8718e7878593fcf980e90901fb
